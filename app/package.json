@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "@angular/http": "^7.2.16",
+    "angular2-jwt": "^0.2.3",
+    "bcryptjs": "*",
+    "body-parser": "^1.19.0",
+    "bulma": "^0.8.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "*",
+    "crypto": "^1.0.1",
+    "express": "*",
+    "init-env": "0.0.7",
+    "jsonwebtoken": "*",
+    "lodash": "^4.17.15",
+    "mongoose": "*",
+    "nodemon": "^2.0.2",
+    "passport": "*",
+    "passport-jwt": "^4.0.0",
+    "rxjs-compat": "^6.5.4"
+  },
+  "author": "Darya Namestnikova",
+  "license": "ISC"
+}
